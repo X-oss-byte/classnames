@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.3.3 / 2023-04-27
+
+- Fix default export, thanks [Remco Haszing](@remcohaszing), (https://github.com/JedWatson/classnames/pull/301)
+- Fix types for read-only arrays, thanks [Ben Thompson](@BenGearset), (https://github.com/JedWatson/classnames/pull/307)
+
 ## v2.3.2 / 2022-09-13
 
 - Fix TypeScript types when using require, thanks [Mark Dalgleish](https://github.com/markdalgleish) ([#276](https://github.com/JedWatson/classnames/pull/276))
